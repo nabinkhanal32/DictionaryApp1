@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DictionaryApp</string>
+    <string-array name="dictionary">
+        <item>Yeta aaunus</item>
+        <item>Uta Janus</item>
+        <item>Nameste</item>
+        <item>Kata xau </item>
+        <item>Kata Jane</item>
+
+
+    </string-array>
+
 </resources>
